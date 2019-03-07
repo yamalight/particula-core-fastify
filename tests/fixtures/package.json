@@ -1,0 +1,8 @@
+{
+  "name": "particula-core-fastify-test",
+  "version": "0.1.0",
+  "description": "Test package.json file",
+  "dependencies": {
+    "particula-core-fastify": "*"
+  }
+}
